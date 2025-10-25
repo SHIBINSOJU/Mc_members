@@ -1,0 +1,21 @@
+{
+  "server": {
+    "host": "localhost",
+    "port": 25565,
+    "version": "1.20.1",
+    "online_mode": false
+  },
+  "bots": {
+    "count": 10,
+    "prefix": "Bot",
+    "connection_delay": 1000,
+    "auto_reconnect": true,
+    "max_retries": 3
+  },
+  "behaviors": {
+    "auto_respond": true,
+    "anti_afk": true,
+    "auto_eat": true,
+    "auto_respawn": true
+  }
+}
